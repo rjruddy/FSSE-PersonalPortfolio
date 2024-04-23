@@ -1,2 +1,9 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/b-nPe8HU)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=13453958&assignment_repo_type=AssignmentRepo)
+# Full Stack Development Project 1: Personal Portfolio
+
+### Description:
+This was the first project for Full Stack Development, Winter 2024, Northwestern University. It is a solo project completed across two weeks, intended to develop skills with frontend frameworks and state handling. The site consists of three pages, each labeled "page.js" within the /src folder. To run the site, download the files and run the command `npm run dev`. Then, navigate to the local host number provided in the terminal.
+
+### Tech Stack:
+- NextJS
+- Languages: HTML, CSS, JavaScript
+
