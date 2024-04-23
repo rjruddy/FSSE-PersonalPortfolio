@@ -1,0 +1,14 @@
+.cform {
+    justify-content: center;
+    padding: 2%;
+    /* display: grid; */
+    /* grid-template-columns: 1fr 3fr; */
+}
+
+.input {
+    padding-top: 1%;
+    padding-bottom: 1%;
+    /* display: flex; */
+  
+    text-align: center;
+}

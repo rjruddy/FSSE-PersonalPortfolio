@@ -1,0 +1,15 @@
+.light {
+    background-color: rgb(174, 211, 214);
+    color: rgb(0, 0, 0);
+}
+
+.dark {
+    background-color: rgb(27, 27, 45);
+    color: rgb(224, 241, 240);
+}
+
+
+.footer {
+    text-align: center;
+    padding: 1%;
+}

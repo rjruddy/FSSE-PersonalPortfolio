@@ -1,0 +1,44 @@
+.light {
+  background-color: white;
+  color: black;
+}
+
+.dark {
+  background-color: black;
+  color: white;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem;
+  min-height: 5vh;
+}
+
+.greeting {
+  padding: 2%;
+  display: flex;
+  align-items: center;
+}
+
+.greetingText {
+  padding: 2%;
+}
+
+.contentBox {
+  padding: 1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.contentBox h3 {
+  padding: 20px;
+}
+
+.contentBox p {
+  /* margin-bottom: 120px; */
+  max-width: 70%;
+}

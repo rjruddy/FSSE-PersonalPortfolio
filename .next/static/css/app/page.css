@@ -1,0 +1,48 @@
+/*!*******************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./src/app/page.module.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************/
+.page_light__x__HD {
+  background-color: white;
+  color: black;
+}
+
+.page_dark__Y3IA9 {
+  background-color: black;
+  color: white;
+}
+
+.page_main__GlU4n {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem;
+  min-height: 5vh;
+}
+
+.page_greeting__9ymoo {
+  padding: 2%;
+  display: flex;
+  align-items: center;
+}
+
+.page_greetingText__Pw9dh {
+  padding: 2%;
+}
+
+.page_contentBox___gJn3 {
+  padding: 1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.page_contentBox___gJn3 h3 {
+  padding: 20px;
+}
+
+.page_contentBox___gJn3 p {
+  /* margin-bottom: 120px; */
+  max-width: 70%;
+}
+

@@ -1,0 +1,32 @@
+.light {
+    background-color: rgb(174, 211, 214);
+    color: rgb(0, 0, 0);
+}
+
+.dark {
+    background-color: rgb(7, 7, 46);
+    color: rgb(224, 241, 240);
+}
+
+.header {
+    align-items: center;
+    text-align: center;
+    padding: 1.25%;
+}
+
+.header h2 {
+    padding: 1%;
+}
+
+.nav {
+    text-align: center;
+}
+
+.navLink {
+    padding: 3%;
+    text-align: center;
+}
+
+.toggle {
+    padding: 1%;
+}

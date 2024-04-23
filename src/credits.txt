@@ -1,0 +1,7 @@
+Here is a list of credits for resources used throughout this project.
+
+Information and code reference for Light/Dark theme context: https://blog.stackademic.com/how-to-implement-light-dark-theme-in-nextjs-98ac7be7de90
+Using SendGrid with NextJS:
+- https://medium.com/@toralf.frich/simple-email-delivery-from-next-js-with-sendgrid-b12ce04cffe3
+- https://www.mtechzilla.com/blogs/how-to-send-emails-with-sendgrid-in-next-js-a-complete-guide 
+- https://www.freecodecamp.org/news/how-to-build-a-working-contact-form-with-sendgrid-and-next-js/
